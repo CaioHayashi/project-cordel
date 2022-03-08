@@ -22,6 +22,7 @@ html, body {
 
 header {
     background-color: black;
+    background-size: cover;
     color: white;
     text-align: center;
     font-size: 1.5em;
@@ -49,7 +50,7 @@ a:hover {
 
 section {
     font-family: var(--font2);
-    padding: 10vh 10vh; 
+    padding: 10vh 15vh; 
     line-height: 2em;
     font-size: 1.8em;
 }
@@ -107,7 +108,7 @@ footer > p#att{
     }
     
     section{
-        padding: 8vw;
+        padding: 10vw 8vw;
         font-size: 1.4em;
         transition-duration: 1s;
     }
