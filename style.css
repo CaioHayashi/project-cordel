@@ -51,7 +51,7 @@ section {
     font-family: var(--font2);
     padding: 10vh 10vh; 
     line-height: 2em;
-    font-size: 1.7em;
+    font-size: 1.8em;
 }
 
 section > p {
@@ -107,7 +107,7 @@ footer > p#att{
     }
     
     section{
-        font-size: 1.1em;
+        font-size: 1.4em;
         transition-duration: 1s;
     }
 
